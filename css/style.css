@@ -394,17 +394,24 @@ padding-bottom: 1rem;
     }
     
 .contact-info {
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* flex-wrap: wrap; */
-    
-    /* padding-right: 1rem; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     list-style-type: none;
     
     }
 
 .contact-info li {
     padding-bottom: 1rem;
+}
+
+/* Logos  */
+.git-logo {
+    width: 30px;
+}
+
+.codepen-logo {
+    width: 80px;
 }
 
 /* Blog Pages */
