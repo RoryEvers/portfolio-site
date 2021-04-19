@@ -463,5 +463,20 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 0.5rem;
+
     
+}
+
+.footerimg {
+    max-height: 2rem;
+    opacity: 0.5;
+    
+    border: 5px solid #009e0f;
+    box-sizing: border-box;
+
 }
