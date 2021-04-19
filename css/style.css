@@ -166,6 +166,7 @@ a {
     padding-bottom: 1rem;
     font-weight: 600;
     padding-top: 1rem;
+    font-size: 1.2rem;
 }
 /* .about-text-p2 {
     padding-bottom: 1rem;
@@ -174,8 +175,22 @@ a {
 .quote {
     font-style: italic;
     font-size: 1.2rem;
-    /* padding-bottom: 1rem; */
+    padding-bottom: 1rem;
     
+}
+/* Field for stack images */
+.tech-stack {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 1rem;
+  
+}
+/* Individual stack images */
+.stack-img {
+    width: 80px;
+    padding-top: 1rem;
 }
 
 .coding-span {
@@ -217,7 +232,7 @@ padding-bottom: 1rem;
 
 
 .resume-heading {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 
@@ -248,7 +263,28 @@ padding-bottom: 1rem;
     border-left: solid 10px  #bf9000; 
 }
 
+/* Bottom half of About page */
 /* Hobbies */
+
+.about-bottom {
+    padding-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    /* max-width: 500px */
+    /* padding: 2.5rem; */
+}
+.for-me-h {
+    color: black;
+    padding-bottom: 1rem;
+}
+
+/* .about-text {
+    padding-bottom: 1rem;
+    
+} */
+
 .hobby {
     max-width: 250px;
 }
