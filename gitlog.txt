@@ -1,0 +1,750 @@
+commit b04e3298e9f2cda61abf56ad93a108d48ea48c92
+Merge: bf022f7 bbcf4bb
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 22 13:35:31 2021 +1000
+
+    Merge pull request #46 from RoryEvers/editmarkdown
+    
+    Edit README
+
+commit bbcf4bbbe8f392ce7489989df681bac30bc8a726
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 22 13:34:25 2021 +1000
+
+    Edit README
+
+commit bf022f7a678fa0d46a1e4aadf00c9a7592e01741
+Merge: 143b2b1 7ecb097
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 22 13:17:30 2021 +1000
+
+    Merge pull request #45 from RoryEvers/rearrangefolders
+    
+    rearrange folders to suit portfolio requirements
+
+commit 7ecb097003536f3aa366c7078d7d410606872199
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 22 13:15:48 2021 +1000
+
+    rearrange folders to suit portfolio requirements
+
+commit 143b2b1010eff6a11ebc5fdaa50417d6d62ee139
+Merge: db46730 789f978
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 22 13:10:53 2021 +1000
+
+    Merge pull request #44 from RoryEvers/editreadme
+    
+    Add new files for deliverables and complete README
+
+commit 789f9784a2ccb65f451cfbae59b66635d713ae83
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 22 13:08:56 2021 +1000
+
+    Add new files for deliverables and complete README
+
+commit db4673082904af7a2846f7f5ec893a03ddefb377
+Merge: e1c4069 64adccb
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 20:46:19 2021 +1000
+
+    Merge pull request #43 from RoryEvers/xml2
+    
+    Add google xml file to root
+
+commit 64adccbf7c3ba442685fd471d2b2f33507ac1f87
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 20:45:09 2021 +1000
+
+    Add google xml file to root
+
+commit e1c4069a2cdf7c3c95e740f5e470a4af58be3edd
+Merge: a9cc702 967ca8c
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 20:28:50 2021 +1000
+
+    Merge pull request #42 from RoryEvers/xml
+    
+    Add XML file to root
+
+commit 967ca8ca110ab71e0f87d73b21f5c9e32997a75b
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 20:27:42 2021 +1000
+
+    Add XML file to root
+
+commit a9cc7029fbde2e35bca7dbcc017d684ecc27b8f1
+Merge: fe77e5d 3cbc4db
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 20:21:52 2021 +1000
+
+    Merge pull request #41 from RoryEvers/SRIhash
+    
+    Update SRI hash
+
+commit 3cbc4db874eb2b5577357ac3f6a9f2d7b5675dcf
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 20:17:17 2021 +1000
+
+    Update SRI hash
+
+commit fe77e5d7049eb5cee6ea1b5d3155c55bf274ce0b
+Merge: bb46159 64bb1b0
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 19:59:25 2021 +1000
+
+    Merge pull request #40 from RoryEvers/SRIhash
+    
+    Add SRI to every page
+
+commit 64bb1b040daf0f52f1b40959003efb994744ea95
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 19:58:00 2021 +1000
+
+    Add SRI to every page
+
+commit bb4615987dc907328535829b7db953cbb50a4bf8
+Merge: cf8bb69 a3ff54f
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 18:50:24 2021 +1000
+
+    Merge pull request #39 from RoryEvers/addskillsheading
+    
+    Add tech stack heading to About based on feedback
+
+commit a3ff54f589d67501efe1ec8df858713b3de0bf56
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 18:49:08 2021 +1000
+
+    Add tech stack heading to About based on feedback
+
+commit cf8bb6937b61583c08af8364a0534a5f7d7ea6bf
+Merge: fd21afa 1a305ef
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 18:42:19 2021 +1000
+
+    Merge pull request #38 from RoryEvers/finalcomments
+    
+    Add comments to all html and css
+
+commit 1a305eff7dba999514a922c4964aca5b00a5a676
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 18:40:52 2021 +1000
+
+    Add comments to all html and css
+
+commit fd21afabb574918107a01a0fd96802264f694e30
+Merge: 827aea9 30fe831
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 13:34:02 2021 +1000
+
+    Merge pull request #37 from RoryEvers/SRI
+    
+    Add sha-384 and crossorigin to index only
+
+commit 30fe8318431a7222c283515c8c96bb14bbff5609
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 13:31:47 2021 +1000
+
+    Add sha-384 and crossorigin to index only
+
+commit 827aea933415c184460e9360a9783db8f0af0f39
+Merge: 67934fa 70fcd50
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 21 11:18:18 2021 +1000
+
+    Merge pull request #36 from RoryEvers/altnav
+    
+    Add gold border to navigation
+
+commit 70fcd5036d8342af787834fc116903d7f0f51b69
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 21 11:17:14 2021 +1000
+
+    Add gold border to navigation
+
+commit 67934fa5de51be8b335f2084b849c6176a3ae5b9
+Merge: 2c7bd4e 26490ad
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 19:55:35 2021 +1000
+
+    Merge pull request #35 from RoryEvers/cardmargin
+    
+    Adjust Height tech stack cards
+
+commit 26490ad0b2551162ea4b38895b41cf2b99a8a07b
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 19:53:28 2021 +1000
+
+    Adjust Height tech stack cards
+
+commit 2c7bd4e7d21371b84218ad8d5696d91df0a19fe2
+Merge: 8d63b1b 80c4be1
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 19:50:35 2021 +1000
+
+    Merge pull request #34 from RoryEvers/cardmargin
+    
+    Adjust margin on project cards
+
+commit 80c4be1cf09ba5f46d532ce9400d841a051270fc
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 19:49:44 2021 +1000
+
+    Adjust margin on project cards
+
+commit 8d63b1bcf6d147d65eb9a111af5ac70eddf7421b
+Merge: 266ad00 5f8d7a5
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 14:53:39 2021 +1000
+
+    Merge pull request #33 from RoryEvers/consistenttext
+    
+    Make text consistent across pages and headings and navigation
+
+commit 5f8d7a51f6c4599e57608a42d10f4217ad1af81f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 14:50:16 2021 +1000
+
+    Make text consistent across pages and headings and navigation
+
+commit 266ad00ab206ad763896dec358a5f4a29d0b3c17
+Merge: 43a3b94 e1d7c50
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 14:45:33 2021 +1000
+
+    Merge pull request #32 from RoryEvers/addfooterimg
+    
+    Add footer img to all pages and makstyle
+
+commit e1d7c50342e3b680b7369e031d36e70390e5b1eb
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 14:44:38 2021 +1000
+
+    Add footer img to all pages and makstyle
+
+commit 43a3b9471648b861bb88056695d13fe6f4216a8d
+Merge: 229d718 ca7ba94
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 14:37:51 2021 +1000
+
+    Merge pull request #31 from RoryEvers/change-nav
+    
+    Update navigation text
+
+commit ca7ba9418392f810e5baeae8936591a5c8539e7b
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 14:36:53 2021 +1000
+
+    Update navigation text
+
+commit 229d718633ce5061cf7d2ae3e55fd39e46c44adb
+Merge: c12161a ecef770
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 14:21:24 2021 +1000
+
+    Merge pull request #30 from RoryEvers/footerimg
+    
+    Add envelope to footer and style
+
+commit ecef770a67466e1d9d10b93d7d89ed23061207af
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 14:20:29 2021 +1000
+
+    Add envelope to footer and style
+
+commit c12161a3a9df494ec92274d957092ed9b3e918e8
+Merge: 6fa4ad5 a9b8625
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 14:09:38 2021 +1000
+
+    Merge pull request #29 from RoryEvers/contactimg
+    
+    Add logos and change text Contact
+
+commit a9b8625c384f0fc19258aab0026a39e23b20c90f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 14:06:15 2021 +1000
+
+    Add logos and change text Contact
+
+commit 6fa4ad59e4056cbc8041dd092ecf02d53fea3453
+Merge: a552e21 cbcf65d
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 13:46:40 2021 +1000
+
+    Merge pull request #28 from RoryEvers/about-pt2
+    
+    Edit about content and add tech stack images and pdf
+
+commit cbcf65d971b069f7119734a271ee11d7c76bbb70
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 13:45:31 2021 +1000
+
+    Edit about content and add tech stack images and pdf
+
+commit a552e2164532ab4954c7c67e821fa9e9b2a6d5ac
+Merge: 8792802 ecff098
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 11:32:08 2021 +1000
+
+    Merge pull request #27 from RoryEvers/hometext
+    
+    Edit home text to be cleaner
+
+commit ecff0981f45c96f3475b0308a81ffae1cac7cc5c
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 11:30:22 2021 +1000
+
+    Edit home text to be cleaner
+
+commit 8792802028d4c279046086c55d3d5eccd2cd3b55
+Merge: fc1cb5a 18c579b
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 10:49:03 2021 +1000
+
+    Merge pull request #26 from RoryEvers/projectimages
+    
+    Add captions and alt text to blog images and update filler blog content
+
+commit 18c579b42e35b9cb6d851f49558b013f96587cba
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 10:48:07 2021 +1000
+
+    Add captions and alt text to blog images and update filler blog content
+
+commit fc1cb5a6a0e5ad2df942f86dd567682a491d2ff8
+Merge: 11575de 0bc04e2
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 10:31:43 2021 +1000
+
+    Merge pull request #25 from RoryEvers/projectsstyle
+    
+    Add colours to project card borders
+
+commit 0bc04e220a1542372512ccfd521f52201998538f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 09:10:54 2021 +1000
+
+    Add colours to project card borders
+
+commit 11575deb2d84a59945b262fa1b5e80898948fda1
+Merge: 7a76a68 6ea7711
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 08:45:23 2021 +1000
+
+    Merge pull request #24 from RoryEvers/blogpages
+    
+    Add content to blog pages and style
+
+commit 6ea77110069cc41661cf283b2f4c7c3679ff6f0b
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 08:43:13 2021 +1000
+
+    Add content to blog pages and style
+
+commit 7a76a68756b56b2ac6fe8a3d2fcefcf0dbd02677
+Merge: 0d24178 3a91f31
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Mon Apr 19 08:19:51 2021 +1000
+
+    Merge pull request #23 from RoryEvers/greencss
+    
+    Replace green with hex code
+
+commit 3a91f31b08c1a0eae1dd3816372354641e67b625
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Mon Apr 19 08:19:00 2021 +1000
+
+    Replace green with hex code
+
+commit 0d24178226f6a9e608148b257bb06a3017c6c3df
+Merge: 90015b2 d46a53b
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Sun Apr 18 17:00:45 2021 +1000
+
+    Merge pull request #22 from RoryEvers/aboutcontent
+    
+    Aboutcontent
+
+commit d46a53ba11c0795c7f9a15b14a92f3d5311ba33f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sun Apr 18 16:59:45 2021 +1000
+
+    edit content resume cards
+
+commit 7fb0633e0bfbf0a04a1e2fcda214ebc202f32cdf
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sun Apr 18 12:30:30 2021 +1000
+
+    Add content to resume cards on About
+
+commit 90015b2d0b6b79ff868bf96277f1744f81212fd6
+Merge: 336e5e9 561167a
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Sun Apr 18 10:11:01 2021 +1000
+
+    Merge pull request #21 from RoryEvers/aboutcontent
+    
+    Aboutcontent
+
+commit 561167aeabc4ba10d69d60dafbd293e710fa7c74
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sun Apr 18 10:10:00 2021 +1000
+
+    Add content and style to first paragraph and quote for About
+
+commit 11d9acbf02bd83bdd9ce4f16a7aefaa6c90d1ff0
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sat Apr 17 19:04:31 2021 +1000
+
+    Edit paragraphs and formatting About upper section
+
+commit 336e5e95616de2c05c772e7ef84f79c3685e19cb
+Merge: 4e85200 702c8e9
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Sat Apr 17 15:28:30 2021 +1000
+
+    Merge pull request #20 from RoryEvers/aboutcontent
+    
+    Aboutcontent
+
+commit 702c8e9b7907f5c0c8dba7ba1b7b407294f1615f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sat Apr 17 15:27:18 2021 +1000
+
+    Add content to About cards and style page
+
+commit f586b88466a205916a6ed7b9a1e7d525875fe999
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sat Apr 17 11:57:17 2021 +1000
+
+    Edit content About page 1st para
+
+commit 7333ec06d29644c1d45e56ded57acca8084eb0b7
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Sat Apr 17 11:28:37 2021 +1000
+
+    Add content and style to About
+
+commit 4e852005824f9fff574b430135af8185cc1e30de
+Merge: d262f85 054fc24
+Author: Rory Evers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 17:12:57 2021 +1000
+
+    Merge pull request #19 from RoryEvers/Contact
+    
+    Create contact page and add links and style
+
+commit 054fc244bc5283aa9c96b78167e4101e67445b9d
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 17:10:46 2021 +1000
+
+    Create contact page and add links and style
+
+commit d262f85a1e09e9b7dedc0816f766f596308632ea
+Merge: f62e3be ec6ff09
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 16:02:22 2021 +1000
+
+    Merge pull request #18 from RoryEvers/homelinks
+    
+    Add hyperlinks to home
+
+commit ec6ff0961dda9303cde91e1ab45f666971cdaaa6
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 16:00:37 2021 +1000
+
+    Add hyperlinks to home
+
+commit f62e3be1a0a9a7fdf69d346deaa420faeb78c037
+Merge: f23684a f95812f
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 14:49:16 2021 +1000
+
+    Merge pull request #17 from RoryEvers/projects
+    
+    Add content and restyle Projects
+
+commit f95812f584fae5c33420775454901cdcbbc95736
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 14:48:24 2021 +1000
+
+    Add content and restyle Projects
+
+commit f23684aef3b446a943c461b91fb29e9c5e35ed98
+Merge: b3251cf 95c5939
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 11:51:51 2021 +1000
+
+    Merge pull request #16 from RoryEvers/projects
+    
+    Populate and style projects page
+
+commit 95c5939a740cb6084e5db6a3229275c020b4fbb4
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 11:51:01 2021 +1000
+
+    Populate and style projects page
+
+commit b3251cfc7fe5ed9d417cd4ef24336b1a5c59dbbb
+Merge: dfecc07 0a1b1ed
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 10:01:50 2021 +1000
+
+    Merge pull request #15 from RoryEvers/projects
+    
+    Populate projects page and update CSS
+
+commit 0a1b1ede6af180486be362c25b77ad80d84eddf9
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 10:00:41 2021 +1000
+
+    populate projects page and update CSS
+
+commit dfecc073ca76bd81dc04200d1ca16437ef47b4b5
+Merge: 84cc2b7 2e5bb9d
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Fri Apr 16 09:36:43 2021 +1000
+
+    Merge pull request #14 from RoryEvers/newpages
+    
+    Add new html pages for the rest of site
+
+commit 2e5bb9df8c01c98d5115c5cfb28127f8385dc20a
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Fri Apr 16 09:35:35 2021 +1000
+
+    Add new html pages for the rest of site
+
+commit 84cc2b7968c0e37d2cd2b984c4e2e3ec0eccf606
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 18:27:37 2021 +1000
+
+    Add hobby section to About
+
+commit 6f6cde1ef48f9f35bdcbd883fa91d0e1b392359c
+Merge: f34bdcd bceb501
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 16:52:27 2021 +1000
+
+    Merge pull request #13 from RoryEvers/About
+    
+    Add sub heading, text and styling to About
+
+commit bceb5015a2960fd2e7dee66eef08dda393cc723e
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 16:51:34 2021 +1000
+
+    Add sub heading, text and styling to About
+
+commit f34bdcdb00d874449f368b33bb62da9b0db458c6
+Merge: ba46da9 e5c7b13
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 14:54:30 2021 +1000
+
+    Merge pull request #12 from RoryEvers/Home
+    
+    Add semantic HTML index.html, change background colour, add CSS comments
+
+commit e5c7b131b77dea7d16d8df6881227ce17d97a669
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 14:29:51 2021 +1000
+
+    Add semantic HTML index.html, change background colour, add CSS comments
+
+commit ba46da9f0a65603eeac5ef4a76df145b78c19798
+Merge: 9a69450 795d2b1
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 13:53:00 2021 +1000
+
+    Merge pull request #11 from RoryEvers/Home
+    
+    Add semantic HTML for Home
+
+commit 795d2b1cb85c39446e73bf0ccf6d9b62bf9d3834
+Merge: f05aad7 9a69450
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 13:52:41 2021 +1000
+
+    Merge branch 'main' into Home
+
+commit f05aad773b4e2458c100fbe4428b3d3dc114b0c3
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 13:48:19 2021 +1000
+
+    Add semantic HTML for Home
+
+commit 9a69450da3b9dbad09848521bd0ed66f88d66299
+Merge: a9c6f59 221ae20
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 13:45:51 2021 +1000
+
+    Merge pull request #10 from RoryEvers/About
+    
+    Edit CSS for About
+
+commit 221ae20af6849b5c3845b81fa0a5498482a4f390
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 13:32:04 2021 +1000
+
+    Edit CSS for About
+
+commit a9c6f59388ea4374a62fa4155b13f325e1b1324c
+Merge: 996b6bd 2be175c
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Thu Apr 15 13:01:03 2021 +1000
+
+    Merge pull request #9 from RoryEvers/About
+    
+    Create About page and add resume cards
+
+commit 2be175c910db4d79caef2786c8875af725c44a72
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Thu Apr 15 12:59:39 2021 +1000
+
+    Create About page and add resume cards
+
+commit 996b6bdafb9e6349fb1d7b28f52c1d0c17ee5132
+Merge: 0e39f85 5369084
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 14 18:03:50 2021 +1000
+
+    Merge pull request #8 from RoryEvers/Navigation
+    
+    Set position for navigation, header and footer
+
+commit 5369084480f2985d065c84d52b568d4217e7d438
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 14 18:02:30 2021 +1000
+
+    Set position for navigation, header and footer
+
+commit 0e39f85b60114a95f26c041e0747dfbb595f4967
+Merge: 2bd1dec e4b2eeb
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 14 16:26:10 2021 +1000
+
+    Merge pull request #7 from RoryEvers/Navigation
+    
+    Add hamburger menu and styling to navigation
+
+commit e4b2eebdd40ba8e80ca3fb50f05d874ec3f24c6e
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 14 16:22:33 2021 +1000
+
+    Add hamburger menu and styling to navigation
+
+commit 2bd1dec13f12e589dc243b42d050a654298b045f
+Merge: 3726c83 fafe895
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 14 13:44:49 2021 +1000
+
+    Merge pull request #6 from RoryEvers/Home
+    
+    Add line breaks between home text and give home links coloured borders
+
+commit fafe895ec4d77ccf7ef29982ebd8961b18e584e6
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 14 13:42:43 2021 +1000
+
+    Add line breaks between home text and give home links coloured borders
+
+commit 3726c83a881f1e7b0d9767fc1a7604b872a9b3d8
+Merge: ffb6545 33aeca8
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 14 11:38:13 2021 +1000
+
+    Merge pull request #5 from RoryEvers/Home
+    
+    Simplify navigation and add text to home
+
+commit 33aeca8fd220bbdd3fbd2d7a93faa26a0cac9ac8
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 14 11:36:00 2021 +1000
+
+    Simplify navigation and add text to home
+
+commit ffb6545345ae9436c55bcbce0ee8baa3fba39cc8
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Tue Apr 13 15:20:10 2021 +1000
+
+    Add Navigation and body design Home HTML + CSS
+
+commit c76877b5e2a5bb2d48862b8fa08ac80b4bec1bee
+Merge: ffff95a fa7e3fd
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 7 12:27:54 2021 +1000
+
+    Merge pull request #4 from RoryEvers/project
+    
+    Add project section and style it
+
+commit fa7e3fdbf00fe4ea9615f5318f9a644f4a0d922f
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 7 12:26:21 2021 +1000
+
+    Add project section and style it
+
+commit ffff95a6f9f2910ef6ae5b332ca3151fc79a5b7a
+Merge: de4279a 1ef8651
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 7 11:42:35 2021 +1000
+
+    Merge pull request #3 from RoryEvers/profile
+    
+    add and style profile section
+
+commit 1ef8651ce0783c37656ea0e46de4d70e1d6f2f99
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 7 11:41:10 2021 +1000
+
+    add and style profile section
+
+commit de4279a53e469bed5bd908ad4c63092771958d04
+Merge: 3a10c53 086e7e0
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 7 10:41:13 2021 +1000
+
+    Merge pull request #2 from RoryEvers/document
+    
+    doc update
+
+commit 086e7e0249bfd63807b1cd80785138ed9e68df3e
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 7 10:39:03 2021 +1000
+
+    doc update
+
+commit 3a10c531165fe118cf513102c3a3ede9519507c8
+Merge: 3042c1d 1f49d2d
+Author: RoryEvers <81058425+RoryEvers@users.noreply.github.com>
+Date:   Wed Apr 7 10:34:03 2021 +1000
+
+    Merge pull request #1 from RoryEvers/section
+    
+    Add sections and responsive classes to CSS file
+
+commit 1f49d2dcc4107f7b5b031f619a941f7a4966d3e4
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 7 10:24:07 2021 +1000
+
+    Add sections and responsive classes to CSS file
+
+commit 3042c1d4293ecbb4223544699fc30cc671b13564
+Author: RoryEvers <roryevers2000@hotmail.com>
+Date:   Wed Apr 7 09:42:14 2021 +1000
+
+    Change title index.html
+
+commit 7a51fa8ac1549500c303ba5789f6943f9a797b72
+Author: Nandini Nayak <nandini.r.nayak@gmail.com>
+Date:   Wed Apr 7 08:38:41 2021 +1000
+
+    initial commit
+
+commit c022eb3d74f1d13a747d7ec95ecf4fb53e52d72b
+Author: NandiniNayak <nandini.r.nayak@gmail.com>
+Date:   Wed Apr 7 08:35:15 2021 +1000
+
+    Initial commit
